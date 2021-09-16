@@ -2,6 +2,10 @@
 
 <!--
 **MegaMinxCoding/MegaMinxCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![bootstrap-original](https://user-images.githubusercontent.com/45885701/133666854-bf8a7f0b-ed70-47bf-88b3-5577648d9c5f.png)
+
+![azure](https://user-images.githubusercontent.com/45885701/133666940-86780ffa-64d9-4385-8ab5-03abddb25ec6.png)
+
 
 Here are some ideas to get you started:
 
