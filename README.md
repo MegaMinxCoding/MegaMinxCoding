@@ -6,7 +6,11 @@ foo
 </blockquote>
 <p>bar</p>
 
-
+Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
+-------|-------------------
+`Value-One` | Long explanation
+`Value-Two` | Long explanation
+`etc` | Long explanation
   
 <div align="center">
   <table style="width:800px" width="800px">
@@ -17,6 +21,7 @@ foo
             <img src="https://user-images.githubusercontent.com/45885701/133826315-245516f1-5d49-44c1-af4b-994b8415d2ed.png" alt="Windows" width="60px" />
             <img src="https://user-images.githubusercontent.com/45885701/133826254-e8554619-6393-433d-9cd1-d9f56e8ed040.png" alt="Linux" width="60px"/>
             <img src="https://user-images.githubusercontent.com/45885701/133779811-59e51c5f-2999-4659-adcc-7b14c6e921cb.png" alt="Ubuntu" width="60px"/>
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
           <h2 >languages & frameworks</h2>
         </div>
           </td>
